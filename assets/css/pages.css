@@ -983,7 +983,7 @@
 .tricolor-footer-bar { height:6px;background:linear-gradient(90deg,#FF9933 33.3%,#fff 33.3%,#fff 66.6%,#138808 66.6%);border-radius:3px;margin-bottom:36px; }
 
 /* RESULTS PAGE STYLES */
-.results-hero { background: linear-gradient(135deg, rgba(26,39,68,0.85) 0%, rgba(15,26,53,0.95) 100%), url('../assets/images/results/banner.webp'); background-size: cover; background-position: center; color: white; padding: 70px 40px; text-align: center; position: relative; overflow: hidden; }
+.results-hero { background: linear-gradient(135deg, rgba(26,39,68,0.85) 0%, rgba(15,26,53,0.95) 100%), url('../images/results/banner.webp'); background-size: cover; background-position: center; color: white; padding: 70px 40px; text-align: center; position: relative; overflow: hidden; }
 .results-hero-circle-1 { position:absolute;top:-60px;right:-60px;width:250px;height:250px;background:rgba(255,255,255,0.03);border-radius:50%; }
 .results-hero-circle-2 { position:absolute;bottom:-80px;left:-40px;width:220px;height:220px;background:rgba(255,255,255,0.03);border-radius:50%; }
 .results-hero-content { position:relative;z-index:2;max-width:800px;margin:0 auto; }
